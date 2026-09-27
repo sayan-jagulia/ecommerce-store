@@ -3,8 +3,8 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)](https://github.com/SaYaN00101/ecommerce-store)
-[![Status](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/SaYaN00101/ecommerce-store)
+[![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)](https://github.com/sayan-jagulia/ecommerce-store)
+[![Status](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/sayan-jagulia/ecommerce-store)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f734258b-27d7-4933-ab09-d6e011537da1" alt="Password Manager Banner" width="800"/>
@@ -110,7 +110,7 @@ ecommerce-store/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SaYaN00101/ecommerce-store.git
+   git clone https://github.com/sayan-jagulia/ecommerce-store.git
    cd ecommerce-store
    ```
 
@@ -176,7 +176,7 @@ For production use, please review and customize security features accordingly.
 ## 👤 Author
 
 Sayan Jagulia
-- GitHub: https://github.com/SaYaN00101
+- GitHub: https://github.com/sayan-jagulia
 - LinkedIn: www.linkedin.com/in/sayan-jagulia-s1y1n 
 
 ---
